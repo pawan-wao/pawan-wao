@@ -10,10 +10,8 @@
 <ul>
   <li>Interested in Flutter. 😁</li>
   <li>Currently learning CP and Flutter. 🌟</li>
-  <li>I’m learning Java too. 💪</li>
+  <li>I’m learning Java & Kotlin too. 💪</li>
   <li>I love exploring and learning new skills as well as implementing those in my projects.</li>
-  <li>I love taking part in hackathons. 😎</li>
-  <li>👨‍💻 I am a knowledge grabber and love to learn new things.</li>
   <li>📫 Reach me at <strong>waonicegood@gmail.com</strong></li>
   <li>Most important thing ❤️: I enjoy what I do. ❤️</li>
 </ul>
